@@ -1,113 +1,88 @@
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.7";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 <?php
-
-$notif=mysql_query("select * from notifications where lu='0'  ORDER BY date DESC ") or die(mysql_error());
-$nbnotif=mysql_num_rows($notif);
-
- $alert1=mysql_query("select * from notifications where  source='hotel' and lu='1' and id_element in(select id_commande from demmande_hotel where etat='0')  ORDER BY date DESC ") or die(mysql_error());
- 
- $alert2=mysql_query("select * from notifications where  source='billetterie' and lu='1' and id_element in(select id from demande_billetterie where etat='0')  ORDER BY date DESC ") or die(mysql_error());
- 
- 		  $alert3=mysql_query("select * from notifications where  source='mice' and lu='1' and id_element in(select id from demande_congre where lu='0')  ORDER BY date DESC ") or die(mysql_error());
-		  
-  $alert4=mysql_query("select * from notifications where  source!='mice' and source!='billetterie' and source!='hotel' and lu='1' and id_element in(select id_commande from demmande_cruise where etat='0')  ORDER BY date DESC ") or die(mysql_error());
+if(isset($_GET['activer'])&& isset($_GET['id'])){
+	
 
 
-$nbalert=mysql_num_rows($alert1)+mysql_num_rows($alert2)+mysql_num_rows($alert3)+mysql_num_rows($alert4);
+	
+	$testconfirm=mysql_query("select * from clients where mail='".$_GET['id']."' and code='".$_GET['activer']."'");
+	if(mysql_num_rows($testconfirm)==1){
+		
+		mysql_query("update  clients  set etat='1' where mail='".$_GET['id']."' and code='".$_GET['activer']."'");
+		$_SESSION['id_connect']=$_GET['activer'];
+		$_SESSION['mail_connect']=$_GET['id'];
+		       ?> <script>document.location.href='espace_client.html';</script><?php
 
- ?>
+		}
+	
+	
+}
 
-                          <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	$testtourisme=mysql_query("select etat from tourisme_medical ") or die(mysql_error());
+	$restou=mysql_fetch_row($testtourisme); 	$etattourisme=$restou[0];
+?>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-<div id="header" class="navbar navbar-inverse navbar-fixed-top">
-       <!-- BEGIN TOP NAVIGATION BAR -->
-       <div class="navbar-inner">
-           <div class="container-fluid">
-               <!--BEGIN SIDEBAR TOGGLE-->
-               <div class="sidebar-toggle-box hidden-phone">
-                   <div class="icon-reorder tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
-               </div>
-               <!--END SIDEBAR TOGGLE-->
-               <!-- BEGIN LOGO -->
-               <a class="brand" href="index.php" style="color:#fff;">
-                   RBS TRAVEL
-               </a>
-               <!-- END LOGO -->
-               <!-- BEGIN RESPONSIVE MENU TOGGLER -->
-               <a class="btn btn-navbar collapsed" id="main_menu_trigger" data-toggle="collapse" data-target=".nav-collapse">
-                   <span class="icon-bar"></span>
-                   <span class="icon-bar"></span>
-                   <span class="icon-bar"></span>
-                   <span class="arrow"></span>
-               </a>
-               <!-- END RESPONSIVE MENU TOGGLER -->
-               <div id="top_menu" class="nav notify-row">
-                   <!-- BEGIN NOTIFICATION -->
-                   <ul class="nav top-menu">
-                       <!-- BEGIN SETTINGS -->
-                       <li class="dropdown">
-                           <a href="index.php#notifications" class="dropdown-toggle" >
-                               <i class="icon-tasks"></i>
-                               <span class="badge badge-important"><?php echo $nbnotif;?></span>
-                           </a>
-                           
-                       </li>
-                       <!-- END SETTINGS -->
-                       <!-- BEGIN INBOX DROPDOWN 
-                       <li class="dropdown" id="header_inbox_bar">
-                           <a href="#notifications" class="dropdown-toggle" >
-                               <i class="icon-envelope-alt"></i>
-                               <span class="badge badge-important">0</span>
-                           </a>
-                           
-                       </li>-->
-                       <!-- END INBOX DROPDOWN -->
-                       <!-- BEGIN NOTIFICATION DROPDOWN -->
-                       <li class="dropdown" id="header_notification_bar">
-                           <a href="index.php#notifications" class="dropdown-toggle" >
+  ga('create', 'UA-88135701-1', 'auto');
+  ga('send', 'pageview');
 
-                               <i class="icon-bell-alt"></i>
-                               <span class="badge badge-warning"><?php echo $nbalert;?></span>
-                           </a>
-                           
-                       </li>
-                       <!-- END NOTIFICATION DROPDOWN -->
+</script>
+<header style="position:absolute; width:100%;">
+            <div class="bg-transparent">
+                <div class="header-topbar">
+                    <div class="container">
+                        
+                        <ul class="topbar-right pull-right list-unstyled list-inline login-widget">
+                        
+                         <?php if(isset($_SESSION['id_connect']) && isset($_SESSION['mail_connect'])){?>
+                             <li><a href="espace_client.html" class="item">Mon compte</a></li>
+                                                    <li><a href="deconnexion.html" class="item">Déconnexion</a></li>
 
-                   </ul>
-               </div>
-               <!-- END  NOTIFICATION -->
-               <div class="top-nav ">
-                   <ul class="nav pull-right top-menu" >
-                       <!-- BEGIN SUPPORT -->
-                       
-                       
-                       <!-- END SUPPORT -->
-                       <!-- BEGIN USER LOGIN DROPDOWN -->
-                       <li class="dropdown">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                   <img src="img/avatar-mini.png" alt="">
-                               <span class="username">Admin</span>
-                               <b class="caret"></b>
-                           </a>
-                           <ul class="dropdown-menu extended logout">
-                               <li><a href="parametres.php"><i class="icon-user"></i> Mon Profile</a></li>
-                               <li><a href="modepasse.php"><i class="icon-user"></i> Mot de passe</a></li>
-                               <li><a href="images_sliders.php"><i class="icon-user"></i> Images Slider</a></li>
-                               <li><a href="deconnexion.php"><i class="icon-key"></i>D&eacute;connexion</a></li>
-                           </ul>
-                       </li>
-                       <!-- END USER LOGIN DROPDOWN -->
-                   </ul>
-                   <!-- END TOP NAVIGATION MENU -->
-               </div>
-           </div>
-       </div>
-       <!-- END TOP NAVIGATION BAR -->
-   </div>
+                        <?php } else{?>
+                        
+                            <li><a href="login.html" class="item">login</a></li>
+                            <li><a href="register.html" class="item">S'enregistrer</a></li>        
+                        <?php } ?>
+                        </ul>
+                    </div>
+                </div>
+                <div class="header-main">
+                    <div class="container">
+                        <div class="header-main-wrapper">
+                            <div class="hamburger-menu">
+                                <div class="hamburger-menu-wrapper">
+                                    <div class="icons"></div>
+                                </div>
+                            </div>
+                            <div class="navbar-header">
+                                <div class="logo"><a href="index.html" class="header-logo"><img src="assets/images/logo/logo_color.png" alt=""/></a></div>
+                            </div>
+                            <nav class="navigation">
+                                <ul class="nav-links nav navbar-nav">
+                    <li class="dropdown"><a href="bons_plans.html" class="main-menu"><span class="text">Bon plans</span></a></li>
+                    <li class="dropdown"><a href="hotels_en_tunisie.html" class="main-menu"><span class="text">Hôtels</span></a></li>
+                    <li class="dropdown"><a href="vols.html" class="main-menu"><span class="text">Vols</span></a></li>
+                    <li class="dropdown"><a href="sejours.html" class="main-menu"><span class="text">Séjours</span></a></li>
+                    <li class="dropdown"><a href="circuits.html" class="main-menu"><span class="text">Circuits</span></a></li>
+                    <li class="dropdown"><a href="croisieres.html" class="main-menu"><span class="text">Croisières</span></a></li>
+             <?php if($etattourisme==1){?>  <li class="dropdown"><a href="tourisme_medical.html" class="main-menu"><span class="text">Tourisme médical</span></a></li><?php }?>
+                    <li><a href="contact.html" class="main-menu"><span class="text">contact</span></a></li>
+                    <li class="button-search"><p class="main-menu"><i class="fa fa-search"></i></p></li>
+                                </ul>
+                                <div class="nav-search hide">
+                                    <form action="resultats.html"><input type="text" placeholder="Mots clés" class="searchbox" name="q"/>
+                                        <button type="submit" class="searchbutton fa fa-search"></button>
+                                    </form>
+                                </div>
+                            </nav>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        
+    

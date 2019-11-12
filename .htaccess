@@ -1,0 +1,43 @@
+
+Options -Indexes
+
+RewriteEngine on
+RewriteRule assets/(.+)  assets2/$1
+RewriteRule uploade/(.+)  http://admin.rbstravel.com.tn/uploade/$1
+
+
+RewriteRule bons_plans.html  hotel_enpromo.php [L]
+RewriteRule index.html  index.php [L]
+RewriteRule hotels_en_tunisie  hotels.php [L]
+RewriteRule hotel-details-([0-9]+)  fiche_hotels.php?id_hotel=$1 [L]
+
+RewriteRule voucher-([0-9]+).html?(.+)  voucher_auto_fiche-user.php?id_gdt=$1&$2 [L,QSA]
+RewriteRule voucher-([0-9]+).html  voucher_auto_fiche-user.php?id_gdt=$1 [L]
+
+
+RewriteRule circuit-([0-9]+)  fiche_multiple.php?id=$1&page=circuit [L]
+RewriteRule croisiere-([0-9]+)  fiche_multiple.php?id=$1&page=croisiere [L]
+RewriteRule sejour-([0-9]+)  fiche_multiple.php?id=$1&page=voyage [L]
+RewriteRule service-([0-9]+)  service.php?id=$1 [L]
+
+
+RewriteRule circuits.html  circuits.php [L]
+RewriteRule croisieres.html  croisieres.php [L]
+RewriteRule sejours.html  sejours.php [L]
+RewriteRule vols.html  vols.php [L]
+RewriteRule resultats.html  resultats.php [L]
+
+
+
+RewriteRule tourisme_medical.html  tourisme_medical.php [L]
+RewriteRule contact.html  contact.php [L]
+RewriteRule login.html  login.php [L]
+RewriteRule register.html  register.php [L]
+RewriteRule password_oublie.html  password_oublie.php [L]
+RewriteRule espace_client.html  espace_client.php [L]
+RewriteRule deconnexion.html  deconnexion.php [L]
+RewriteRule erreur.html  erreur.php [L]
+RewriteRule demande_([A-Za-z]+)_reussite.html  demandereussite.php?page=$1 [L]
+
+
+

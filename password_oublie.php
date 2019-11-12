@@ -5,37 +5,43 @@
 <?php include("connexion.php");
 if(isset($_POST['loginclientA']))
 	{
-	$testconfirmmail=mysql_query("select * from clients where mail='".$_POST['mailc']."'") or die(mysql_error());
-	$testconfirmid=mysql_query("select * from clients where mail='".$_POST['mailc']."' and mdp='".md5($_POST['mdpc'])."'") or die(mysql_error());
-	$testconfirmidetat=mysql_query("select * from clients where mail='".$_POST['mailc']."' and mdp='".md5($_POST['mdpc'])."' and etat='1' ") or die(mysql_error());
+	$testconfirmmail=mysql_query("select * from clients where mail='".$_POST['mailchange']."'") or die(mysql_error());
+
 	if(mysql_num_rows($testconfirmmail)==1 ){
-	if(mysql_num_rows($testconfirmid)==1 ){
-	if(mysql_num_rows($testconfirmidetat)==1 ){
-		
-		
 		$a=mysql_fetch_array($testconfirmid);
 		$codenv=genererMDP(18);
-		mysql_query("update  clients  set code='$codenv' where mail='".$_POST['mailc']."'");
-		
-		$_SESSION['id_connect']=$codenv;
-		$_SESSION['mail_connect']=$_POST['mailc'];
-		$_SESSION['msj_erreur_singin']="non";
-		?>
-        <script>document.location.href='espace_client.html';</script>
-        <?php
-		}
-		else{		
-					$_SESSION['msj_erreur_singin']="Votre compte n'est pas active, verifier votre email!";
+		$sqm=mysql_query("select * from  clients  where mail='".$_POST['mailchange']."'");
+		$ress=mysql_fetch_array($sqm);
+		$codenv=$ress['code'];
+		$mail=$_POST['mailchange'];
+		$from='inscription@rbstravel.com.tn';
+		$subject = "Changement de votre mot de passe  RBS Travel";
+						
+						  $message = '
+  
+       <p>Suite &agrave; votre demande de changement de votre mot de passe RBS !
+ veuillez cliquer sur le lien ci-dessous pour le changer :</p>
+	   <p>test.rbstravel.com.tn/changer_mdp.php?changer='.$codenv.'&id='.$mail.'</p>
+	   <p>Cordialement l\'&eacute;quipe de RBS Travel</p>
+	   <p>www.rbstravel.com.tn</p>
 
-				}
-}
-		else{		
-					$_SESSION['msj_erreur_singin']="L'email ou bien le mot de passe incorrecte!";
+     
+     ';
+			 $headers = 'From: RBS Travel<'.$from.'>' . "\r\n" .
+                    'Reply-To:'.$from. "\r\nContent-Type: text/html; charset=\"iso-8859-1\"\r\n"."X-Mailer: PHP/" . phpversion();
+					
+							
+						$additionalparam = "-t " . $from;
+						
+						
+								mail($mail, $subject, $message, $headers, $additionalparam);
+										        ?><script>document.location.href='demande_mdp_reussite.html ';</script><?php
 
-				}
+				
 	}
 		else{		
 					$_SESSION['msj_erreur_singin']="Vous n'étes pas inscrit!";
+		        ?><script>document.location.href='password_oublie.html';</script><?php
 
 				}
 	
@@ -76,16 +82,16 @@ if(isset($_POST['loginclientA']))
         <!-- WRAPPER-->
         <div id="wrapper-content"><!-- MAIN CONTENT-->
             <div class="main-content">
-                <section class="page-banner contact-page"  style="background-image:url(assets/images/bg-forgot-password.jpg); background-attachment: local;">
+                <section class="page-banner contact-page"  style="background-image:url(assets/images/bg-forgot-password.jpg); background-attachment: local;" >
                     <div class="container">
                         <div class="page-title-wrapper">
                             <div class="page-title-content">
                                 <ol class="breadcrumb">
                                     <li><a href="index.html" class="link home">Accueil</a></li>
-                                    <li class="active"><a href="#" class="link">Login</a></li>
+                                    <li class="active"><a href="#" class="link">Récupération de mot de passe</a></li>
                                 </ol>
                                 <div class="clearfix"></div>
-                                <h2 class="captions">Login</h2></div>
+                                <h2 class="captions">Récupération</h2></div>
                         </div>
                     </div>
                 </section>
@@ -94,22 +100,22 @@ if(isset($_POST['loginclientA']))
                     <div class="container">
                         <div class="wrapper-login-form">
                             <div data-wow-delay="0.5s" class="contact-wrapper wow fadeInLeft">
-                                <div class="contact-box"><h5 class="title">CONNEXION</h5>
+                                <div class="contact-box"><h5 class="title">Récupération de mot de passe</h5>
+                                <p style="color:#fff"> Tapez votre email pour vous envoyez l'accés pour changer votre mot de passe!</p>
 
                                      <div id="msjerreur" style="color:#f00;"><?php if(isset($_SESSION['msj_erreur_singin']))  echo $_SESSION['msj_erreur_singin']; unset($_SESSION['msj_erreur_singin']);?></div>
 
                                     <form class="login-form"  onSubmit="return test();" method="post">
-                                     <input type="email" placeholder="Votre Email" name="mailc" id="mailc" class="form-control form-input" style="color:#000;">
-                                     <input type="password" placeholder="Votre mot de passe" name="mdpc" id="mdpc" class="form-control form-input" style="color:#000;">
+                                     <input type="email" placeholder="Votre Email" name="mailchange" id="mailchange" class="form-control form-input" style="color:#000;">
+                                    
                                     
 
                                         <div class="contact-submit">
-                                            <button type="submit" data-hover="Connectez-vous"   name="loginclientA" class="btn btn-slide"><span class="text">Login</span></button>
+                                            <button type="submit" data-hover="Récuperer"   name="loginclientA" class="btn btn-slide"><span class="text">Récuperer</span></button>
                                         </div>
                                         
                                       
                                         
-                                       <a href="password_oublie.html"> Mot de passe oublier? </a><br>
                                        <a href="register.html">Vous n'avez pas un compte? S'ENREGISTRER </a>
 										
                                     </form>
@@ -118,7 +124,7 @@ if(isset($_POST['loginclientA']))
                                     
                                 </div>
                             </div>
-                            <div data-wow-delay="0.5s" class="wrapper-form-images wow fadeInRight"><img src="assets/images/login.JPG" alt="" class="img-responsive"></div>
+                            <div data-wow-delay="0.5s" class="wrapper-form-images wow fadeInRight"><img src="assets/images/bg-forgot-password2.jpg" alt="" class="img-responsive"></div>
                         </div>
                     </div>
                 </section>
@@ -151,12 +157,10 @@ if(isset($_POST['loginclientA']))
 function test(){
 
 	var test=true;
-	var mail=document.getElementById('mailc').value;
-	var mdp=document.getElementById('mdpc').value;
+	var mail=document.getElementById('mailchange').value;
 
 
-if(mail=="") {message('verifier le email.');test=false;	}
-	if(mdp=="") {message('verifier le mot de passe.'); test=false;}
+if(mail=="") {message('verifier l\'email.');test=false;	}
 
 	return test;
 		

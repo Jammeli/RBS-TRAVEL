@@ -1,51 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head><?php include("connexion.php");
-
-	
-	function gallerie_tourisme($mode){
-$images="";
-	$select2=mysql_query("select * from tourisme_medical_g ");
-	
-	while($exe1=mysql_fetch_array($select2)){
-	$image=$exe1['image'];
-	
-	if($mode==1){
-	$images.='<div class="item" style="background-image:url('.$image.'); background-position:center; background-size:cover; height:380px; "></div>';
-
-	}
-	elseif($mode==2){
-	$images.='<div class="item" style="background-image:url('.$image.'); background-position:center; background-size:cover; height:60px; width:70px;"></div>';
-
-	}
-	
-	}
-	
-	return $images;
-		
-	
-	
-	}
-function image_profil_tourisme(){
-	
-	$select=mysql_query("select image from tourisme_medical_g where     type='profil'");
-	$exe1=mysql_fetch_row($select);
-	
-	if(mysql_num_rows($select)!=0) return $exe1[0];
-	else return "assets/images/tourisme.jpg";
-
-
-										
-}
-
-?>
+<head><?php include("connexion.php");?>
 <?php 
+if(empty($_GET['id']) ) header("index.html");
 
-$table="tourisme_medical";
 
-$sql=mysql_query("select * from $table  ") or die(mysql_error());
-if(mysql_num_rows($sql)==0) header("index.html");
+$sql=mysql_query("select * from services where id='".$_GET['id']."'  ") or die(mysql_error());
 
 $res=mysql_fetch_array($sql);
 
@@ -60,9 +21,9 @@ $res=mysql_fetch_array($sql);
 
 
 
-<meta property="og:title" content="Tourisme médical avec RBS Travel"/>
-<meta property="og:url" content="http://www.rbstravel.com.tn/tourisme_medical.php"/> 
-<?php if( image_profil_tourisme()!=''){echo ' <meta property="og:image" content="http://www.rbstravel.com.tn/'.image_profil_tourisme().'">'; }?>
+<meta property="og:title" content="<?php echo $res['titre'];?> - RBS Travel"/>
+<meta property="og:url" content="http://www.rbstravel.com.tn/sevice-<?php echo $_GET['id'];?>.html"/> 
+<meta property="og:image" content="http://www.rbstravel.com.tn/<?php echo $res['image'];?>">
 
  <meta property="og:image:type" content="image/jpeg">
  <meta property="og:image:width" content="3523">
@@ -107,16 +68,16 @@ $res=mysql_fetch_array($sql);
         <!-- WRAPPER-->
         <div id="wrapper-content"><!-- MAIN CONTENT-->
             <div class="main-content">
-                <section class="page-banner hotel-view" <?php if( image_profil_tourisme()!=''){echo ' style="background-image:url('.image_profil_tourisme().')"'; }?>>
+                <section class="page-banner hotel-view">
                     <div class="container">
                         <div class="page-title-wrapper">
                             <div class="page-title-content">
                                 <ol class="breadcrumb">
                                     <li><a href="index.html" class="link home">Accueil</a></li>
-                                    <li class="active"><a href="#" class="link">Tourisme médical</a></li>
+                                    <li class="active"><a href="#" class="link"><?php echo $res['titre'];?></a></li>
                                 </ol>
                                 <div class="clearfix"></div>
-                                <h2 class="captions">Tourisme médical</h2>
+                                <h2 class="captions"><?php echo $res['titre'];?></h2>
 
                                 
                             </div>
@@ -128,54 +89,26 @@ $res=mysql_fetch_array($sql);
                         <div class="container">
                             <div class="journey-block">
 
-                         <?php /* if(mysql_num_rows($select2)!=0){*/?>      
-                                <div class="overview-block clearfix"><h3 class="title-style-3">Détails</h3>
-
-                                    <div class="timeline-container">
-                                        <div class="timeline timeline-hotel-view">
-                                            <div class="timeline-block">
-                                                <div class="timeline-content">
-                                                    <div class="row">
-                                                        <div class="timeline-custom-col">
-                                                            <div class="image-hotel-view-block">
-                                                                <div class="slider-for group1">
-<?php echo gallerie_tourisme(1);?>
-                                                                </div>
-                                                                <div class="slider-nav group1">
-<?php echo gallerie_tourisme(2);?>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        
-                                                       
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
+                               
+                                
+                                 <div class="wrapper-journey" style="padding-bottom:45px;">
+                                    
                                 </div>
-                                <?php /* }*/?>
-                                 <div><br>
-<h3 class="title-style-3">Description</h3>
+                            </div>     <div>
                         
                         <?php 
 										   
 										   
-										   echo nl2br($res['texte']);?>
+										   echo $res['texte'];?>
                                            
                                            
                          </div>
-                            </div>     
                         </div>
                         
-                                    
-                      
                            
                                            
                                                                    <div class="map-block">
                             <div class="map-info"><h3 class="title-style-2">Contacter</h3>
-
                                 <p class="address">RBS TRAVEL </p>
                                 <p class="address"><i class="fa fa-map-marker"></i> <?php echo $restotparametres['adresse'];?></p>
 
@@ -185,10 +118,9 @@ $res=mysql_fetch_array($sql);
 
                                 <div class="footer-block"><a class="btn btn-open-map">Ouvrir map</a></div>
                             </div>
-                                                        <div id="googleMap"></div>
+                                                        <div id="googleMap"><?php include("map_g.php");?></div>
 
-                                           <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS0oVV5q5fKAPk8tEmTReDK3xPSqtMzqM&signed_in=true&callback=initMap" async defer>
-    </script>
+                            
                         </div>
                         
                     </div>
@@ -215,7 +147,8 @@ $res=mysql_fetch_array($sql);
 <!--script(src="assets/libs/parallax/jquery.data-parallax.min.js")--><!-- MAIN JS-->
 <script src="assets/js/main.js"></script>
 <!-- LOADING JS FOR PAGE-->
-        <?php include("assets2/js/pages/contact_tourisme.php");?>
+        <?php include("assets2/js/pages/contact2.php");?>
+<!-- <script src="http://maps.googleapis.com/maps/api/js"></script>-->
 <script src="assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
 </body>
 <script language="javascript">
@@ -293,8 +226,8 @@ document.getElementById('msjerreur').innerHTML = msj;
 	.liste1 form-group{padding-left:20px !important; padding-right:20px !important;}
 	
 	.liste1 table {margin-left: 29px;    width: 90%;}
-	.liste1 select { height:30px; color:#000;}
-	.liste1 input {  color:#000;}	.liste1 font{height:30px;}
+	.liste1 select { height:30px;}
+	.liste1 font{height:30px;}
 	.liste1 label{height:30px;}
 	font.total{ font-size:24px;}
 	font.total fontl{ font-size:20px;}

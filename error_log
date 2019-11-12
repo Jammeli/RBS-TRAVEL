@@ -1,1 +1,371 @@
-[29-Jan-2019 14:52:12 UTC] PHP Notice:  Undefined variable: division in /home/rbstravelcom/admin.rbstravel.com.tn/popup_reduction_hotel.php on line 24
+[03-Apr-2019 14:13:12 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:12 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:16 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:16 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:24 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:24 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:28 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:28 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:30 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:30 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:33 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:33 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:35 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:35 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:41 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:13:41 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:15:06 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:15:06 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:15:07 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:15:07 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:18:08 Africa/Tunis] PHP Notice:  Undefined variable: testconfirmid in /home/rbstravelcom/test.rbstravel.com.tn/password_oublie.php on line 11
+[03-Apr-2019 14:18:08 Africa/Tunis] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/rbstravelcom/test.rbstravel.com.tn/password_oublie.php on line 11
+[03-Apr-2019 14:19:51 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:19:51 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:19:54 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:19:54 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:19:57 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:19:57 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:20:11 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:20:11 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:20:17 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:20:17 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:20:20 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:20:20 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:20:36 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:20:36 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:21:45 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:21:45 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:21:48 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:21:48 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:21:52 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:21:52 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:22:02 Africa/Tunis] PHP Notice:  Undefined variable: adultes in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:22:02 Africa/Tunis] PHP Notice:  Undefined variable: nbchb in /home/rbstravelcom/test.rbstravel.com.tn/calcul_hotel.php on line 1267
+[03-Apr-2019 14:23:20 Africa/Tunis] PHP Notice:  Undefined variable: testconfirmid in /home/rbstravelcom/test.rbstravel.com.tn/password_oublie.php on line 11
+[03-Apr-2019 14:23:20 Africa/Tunis] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/rbstravelcom/test.rbstravel.com.tn/password_oublie.php on line 11
+[05-Apr-2019 11:12:41 Africa/Tunis] PHP Notice:  Undefined index: mail_connect in /home/rbstravelcom/test.rbstravel.com.tn/espace_client.php on line 7
+[22-Apr-2019 01:33:27 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Apr-2019 01:33:27 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Apr-2019 01:33:27 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Apr-2019 03:56:45 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Apr-2019 03:56:45 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Apr-2019 03:56:45 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Apr-2019 11:17:22 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Apr-2019 11:17:22 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Apr-2019 11:17:22 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-May-2019 17:53:04 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-May-2019 17:53:04 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-May-2019 17:53:04 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[06-May-2019 22:17:20 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[06-May-2019 22:17:20 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[06-May-2019 22:17:20 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[07-May-2019 14:30:44 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[07-May-2019 14:30:44 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[07-May-2019 14:30:44 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[07-May-2019 14:30:44 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[07-May-2019 14:30:44 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[07-May-2019 14:30:44 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[07-May-2019 15:32:04 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[07-May-2019 15:32:04 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[07-May-2019 15:32:04 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[07-May-2019 15:32:04 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[07-May-2019 15:32:04 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[07-May-2019 15:32:04 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[09-May-2019 16:11:10 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-May-2019 16:11:10 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-May-2019 16:11:10 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-May-2019 10:46:56 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-May-2019 10:46:56 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-May-2019 10:46:56 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-May-2019 05:30:23 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-May-2019 05:30:23 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-May-2019 05:30:23 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-May-2019 16:20:51 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-May-2019 16:20:51 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-May-2019 16:20:51 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[17-May-2019 00:04:54 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[17-May-2019 00:04:54 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[17-May-2019 00:04:54 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[18-May-2019 13:59:20 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[18-May-2019 13:59:20 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[18-May-2019 13:59:20 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[19-May-2019 02:17:54 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[19-May-2019 02:17:54 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[19-May-2019 02:17:54 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[19-May-2019 02:17:54 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[19-May-2019 02:17:54 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[19-May-2019 02:17:54 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[19-May-2019 07:01:29 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[19-May-2019 07:01:29 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[19-May-2019 07:01:29 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[19-May-2019 07:01:29 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[19-May-2019 07:01:29 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[19-May-2019 07:01:29 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[23-May-2019 20:13:37 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[23-May-2019 20:13:37 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[23-May-2019 20:13:37 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[23-May-2019 20:13:37 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[23-May-2019 20:13:37 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[23-May-2019 20:13:37 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[23-May-2019 22:01:38 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:01:38 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:01:38 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:02:13 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:02:13 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:02:13 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:02:37 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:02:37 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:02:37 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:18:21 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:18:21 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:18:21 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:18:24 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:18:24 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:18:24 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:18:43 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:18:43 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[23-May-2019 22:18:43 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[25-May-2019 08:23:55 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[25-May-2019 08:23:55 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[25-May-2019 08:23:55 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[25-May-2019 14:35:18 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[25-May-2019 14:35:18 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[25-May-2019 14:35:18 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-May-2019 15:24:13 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-May-2019 15:24:13 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-May-2019 15:24:13 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-May-2019 20:30:39 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-May-2019 20:30:39 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-May-2019 20:30:39 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-May-2019 09:04:04 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-May-2019 09:04:04 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-May-2019 09:04:04 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-May-2019 09:04:10 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-May-2019 09:04:10 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-May-2019 09:04:10 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-May-2019 09:04:31 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-May-2019 09:04:31 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-May-2019 09:04:31 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[03-Jun-2019 19:29:35 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[03-Jun-2019 19:29:35 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[03-Jun-2019 19:29:35 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[03-Jun-2019 19:29:35 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[03-Jun-2019 19:29:35 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[03-Jun-2019 19:29:35 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[09-Jun-2019 02:40:39 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Jun-2019 02:40:39 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Jun-2019 02:40:39 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[13-Jun-2019 03:33:24 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[13-Jun-2019 03:33:24 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[13-Jun-2019 03:33:24 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[13-Jun-2019 15:54:08 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[13-Jun-2019 15:54:08 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[13-Jun-2019 15:54:08 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[14-Jun-2019 09:49:55 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[14-Jun-2019 09:49:55 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[14-Jun-2019 09:49:55 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[17-Jun-2019 23:19:32 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[17-Jun-2019 23:19:32 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[17-Jun-2019 23:19:32 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[20-Jun-2019 01:19:05 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[20-Jun-2019 01:19:05 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[20-Jun-2019 01:19:05 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[20-Jun-2019 12:30:12 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[20-Jun-2019 12:30:12 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[20-Jun-2019 12:30:12 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[20-Jun-2019 12:30:12 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[20-Jun-2019 12:30:12 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[20-Jun-2019 12:30:12 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[20-Jun-2019 12:57:43 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[20-Jun-2019 12:57:43 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[20-Jun-2019 12:57:43 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[21-Jun-2019 04:21:23 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[21-Jun-2019 04:21:23 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[21-Jun-2019 04:21:23 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-Jun-2019 10:46:39 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-Jun-2019 10:46:39 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-Jun-2019 10:46:39 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-Jun-2019 23:10:53 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[28-Jun-2019 23:10:53 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[28-Jun-2019 23:10:53 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[28-Jun-2019 23:10:53 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[28-Jun-2019 23:10:53 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[28-Jun-2019 23:10:53 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[30-Jun-2019 02:26:05 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[30-Jun-2019 02:26:05 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[30-Jun-2019 02:26:05 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[30-Jun-2019 03:08:14 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[30-Jun-2019 03:08:14 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[30-Jun-2019 03:08:14 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[01-Jul-2019 01:16:42 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[01-Jul-2019 01:16:42 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[01-Jul-2019 01:16:42 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[14-Jul-2019 10:49:30 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[14-Jul-2019 10:49:30 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[14-Jul-2019 10:49:30 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[14-Jul-2019 10:49:30 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[14-Jul-2019 10:49:30 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[14-Jul-2019 10:49:30 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[16-Jul-2019 04:32:26 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-Jul-2019 04:32:26 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-Jul-2019 04:32:26 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-Jul-2019 06:10:46 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-Jul-2019 06:10:46 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-Jul-2019 06:10:46 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-Jul-2019 15:27:22 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-Jul-2019 15:27:22 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[16-Jul-2019 15:27:22 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[24-Jul-2019 16:16:05 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[24-Jul-2019 16:16:05 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[24-Jul-2019 16:16:05 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[24-Jul-2019 16:16:05 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[24-Jul-2019 16:16:05 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[24-Jul-2019 16:16:05 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[25-Jul-2019 00:55:43 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[25-Jul-2019 00:55:43 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[25-Jul-2019 00:55:43 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[27-Jul-2019 10:27:13 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[27-Jul-2019 10:27:13 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[27-Jul-2019 10:27:13 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-Jul-2019 13:57:10 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-Jul-2019 13:57:10 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-Jul-2019 13:57:10 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[29-Jul-2019 11:16:28 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[29-Jul-2019 11:16:28 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[29-Jul-2019 11:16:28 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[30-Jul-2019 13:03:48 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[30-Jul-2019 13:03:48 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[30-Jul-2019 13:03:48 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[30-Jul-2019 13:03:48 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[30-Jul-2019 13:03:48 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[30-Jul-2019 13:03:48 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[31-Jul-2019 08:29:36 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[31-Jul-2019 08:29:36 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[31-Jul-2019 08:29:36 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[03-Aug-2019 03:38:23 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[03-Aug-2019 03:38:23 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[03-Aug-2019 03:38:23 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-Aug-2019 13:37:22 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-Aug-2019 13:37:22 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-Aug-2019 13:37:22 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-Aug-2019 14:51:24 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-Aug-2019 14:51:24 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-Aug-2019 14:51:24 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[07-Aug-2019 21:17:30 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[07-Aug-2019 21:17:30 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[07-Aug-2019 21:17:30 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[18-Aug-2019 09:35:56 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[18-Aug-2019 09:35:56 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[18-Aug-2019 09:35:56 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[18-Aug-2019 09:35:56 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[18-Aug-2019 09:35:56 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[18-Aug-2019 09:35:56 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[19-Aug-2019 16:46:17 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[19-Aug-2019 16:46:17 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[19-Aug-2019 16:46:17 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[20-Aug-2019 11:34:36 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[20-Aug-2019 11:34:36 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[20-Aug-2019 11:34:36 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[24-Aug-2019 01:37:23 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[24-Aug-2019 01:37:23 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[24-Aug-2019 01:37:23 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[30-Aug-2019 00:38:47 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[30-Aug-2019 00:38:47 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[30-Aug-2019 00:38:47 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[02-Sep-2019 16:02:01 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[02-Sep-2019 16:02:01 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[02-Sep-2019 16:02:01 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[04-Sep-2019 20:45:16 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[04-Sep-2019 20:45:16 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[04-Sep-2019 20:45:16 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Sep-2019 14:09:06 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Sep-2019 14:09:06 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Sep-2019 14:09:06 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Sep-2019 23:47:26 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Sep-2019 23:47:26 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Sep-2019 23:47:26 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[11-Sep-2019 22:45:07 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[11-Sep-2019 22:45:07 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[11-Sep-2019 22:45:07 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[17-Sep-2019 07:07:10 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[17-Sep-2019 07:07:10 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[17-Sep-2019 07:07:10 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Sep-2019 22:28:21 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[22-Sep-2019 22:28:22 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[22-Sep-2019 22:28:22 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[22-Sep-2019 22:28:22 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[22-Sep-2019 22:28:22 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[22-Sep-2019 22:28:22 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[28-Sep-2019 21:50:06 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-Sep-2019 21:50:06 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[28-Sep-2019 21:50:06 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[29-Sep-2019 03:20:14 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[29-Sep-2019 03:20:14 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[29-Sep-2019 03:20:14 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[29-Sep-2019 03:20:14 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[29-Sep-2019 03:20:14 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[29-Sep-2019 03:20:14 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[10-Oct-2019 04:27:43 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Oct-2019 04:27:43 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Oct-2019 04:27:43 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Oct-2019 04:28:01 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Oct-2019 04:28:01 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Oct-2019 04:28:01 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[18-Oct-2019 11:15:04 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[18-Oct-2019 11:15:04 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[18-Oct-2019 11:15:04 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[19-Oct-2019 21:42:28 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[19-Oct-2019 21:42:28 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[19-Oct-2019 21:42:28 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[21-Oct-2019 03:34:28 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[21-Oct-2019 03:34:28 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[21-Oct-2019 03:34:28 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[21-Oct-2019 13:21:38 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[21-Oct-2019 13:21:38 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[21-Oct-2019 13:21:38 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Oct-2019 09:40:22 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Oct-2019 09:40:22 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[22-Oct-2019 09:40:22 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[24-Oct-2019 07:27:38 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[24-Oct-2019 07:27:38 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[24-Oct-2019 07:27:38 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-Oct-2019 04:16:04 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-Oct-2019 04:16:04 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-Oct-2019 04:16:04 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-Oct-2019 09:58:40 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[26-Oct-2019 09:58:40 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[26-Oct-2019 09:58:40 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[26-Oct-2019 09:58:40 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[26-Oct-2019 09:58:40 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[26-Oct-2019 09:58:40 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[26-Oct-2019 14:08:44 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-Oct-2019 14:08:44 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[26-Oct-2019 14:08:44 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[27-Oct-2019 08:25:07 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[27-Oct-2019 08:25:07 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[27-Oct-2019 08:25:07 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[31-Oct-2019 11:03:39 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[31-Oct-2019 11:03:39 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[31-Oct-2019 11:03:39 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[01-Nov-2019 08:08:31 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[01-Nov-2019 08:08:31 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[01-Nov-2019 08:08:31 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-Nov-2019 03:48:36 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-Nov-2019 03:48:36 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[05-Nov-2019 03:48:36 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[08-Nov-2019 20:57:21 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 353
+[08-Nov-2019 20:57:21 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 355
+[08-Nov-2019 20:57:21 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 359
+[08-Nov-2019 20:57:21 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 522
+[08-Nov-2019 20:57:21 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 524
+[08-Nov-2019 20:57:21 Africa/Tunis] PHP Notice:  Undefined offset: 1 in /home/rbstravelcom/test.rbstravel.com.tn/connexion.php on line 529
+[09-Nov-2019 06:36:41 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Nov-2019 06:36:41 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Nov-2019 06:36:41 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Nov-2019 08:57:12 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Nov-2019 08:57:12 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[09-Nov-2019 08:57:12 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Nov-2019 20:05:11 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Nov-2019 20:05:11 Africa/Tunis] PHP Warning:  include(map_g.php): failed to open stream: No such file or directory in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121
+[10-Nov-2019 20:05:11 Africa/Tunis] PHP Warning:  include(): Failed opening 'map_g.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rbstravelcom/test.rbstravel.com.tn/service.php on line 121

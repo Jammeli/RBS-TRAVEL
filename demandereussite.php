@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include("connexion.php");?>
-<head><title>RBS Travel</title>
-
+            <?php include("connexion.php");?>
+<head><title>RBS Travel </title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- FONT CSS-->
@@ -33,44 +32,62 @@
         <!-- WRAPPER-->
         <div id="wrapper-content"><!-- MAIN CONTENT-->
             <div class="main-content">
-                <section class="page-banner homepage-04" >
-                    <div class="homepage-hero-module">
-                        <div class="video-container">
-                            <div class="filter">
-                                <video autoplay=1 loop controls muted="muted" class="video-embed fillWidth">
-                                    <source src="assets/images/bg-video/mp4/mountain_converted.mp4" type="video/mp4">
-                                </video>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="homepage-banner-warpper" style="padding-left:50px;padding-right:50px; ">
-                        <div class="homepage-banner-content">
-                         <!--   <div class="bg-image"><img src="assets/images/background/homepage-04-banner.jpg" alt="" class="img-responsive"></div>-->                            <div class="group-logo"><img src="assets/images/logo/logo.png" alt="" class="img-logo"></div>
-                            
-
-                               
-                                                <?php include("recherche.php");?>
-
-                                
-                                
-                      
+                <section class="page-banner about-us-page">
+                    <div class="container">
+                        <div class="page-title-wrapper">
+                            <div class="page-title-content">
+                                <ol class="breadcrumb">
+                                    <li><a href="index.html" class="link home">Accueil</a></li>
+                                    <li class="active"><a href="#" class="link">Demande envoyée</a></li>
+                                </ol>
+                                <div class="clearfix"></div>
+                                <h2 class="captions">Demande envoyée</h2></div>
                         </div>
                     </div>
                 </section>
-                <?php include("index_voyage.php");?>
-                <?php include("index_promo_hotel.php");?>
-                             <?php include("index_tourisme.php");?>
+                <section class="about-us layout-2 padding-top padding-bottom about-us-4">
+                    <div class="container">
+                        <div class="row">
+                            <div class="wrapper-contact-style">
+                                <div class="col-lg-6 col-md-8"><h3 class="title-style-2">Demande envoyée</h3>
 
+                                    <div class="about-us-wrapper">
+                   <?php if($_GET['page']=="mdp"){?>                  
+<p class="text">
+Votre demande à été bien envoyée, vous recevez un email de récuperation de mot de passe.</p>
+    <p class="text"><a > Consultez votre email</a></p>
+    
+    
+    <?php }else if($_GET['page']=="inscription") {?>                     
+<p class="text">
+Inscription réussite,  vous recevez un email de confirmation  sur votre email.</p>
+    
+    
+    <?php }else if($_GET['page']=="contact") {?>                     
+<p class="text">
+Votre message à été bien envoyée, vous recevez une reponse le plus tôt possible.</p>
+    <p class="text"><a > Consultez votre email</a></p>
+    
+    <?php }
+	else {?>                  
+<p class="text">
+Merci pour votre demande. Votre commande à été bien envoyée, vous recevez un email de confirmation ou bien un appel téléphonique de notre part.</p>
+    <p class="text"><a href="espace_client.html"> Consultez votre compte</a></p>
+    
+    
+    <?php }?>
+                                     
+
+                                        
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </section>
                 
-                
-                
-                  <?php include("index_services.php");?> 
-                
-                
-                
-                
-                
-                
+              
             </div>
             <!-- BUTTON BACK TO TOP-->
             <div id="back-top"><a href="#top" class="link"><i class="fa fa-angle-double-up"></i></a></div>
@@ -80,8 +97,6 @@
 
     </div>
 </div>
-
-
 <!-- LIBRARY JS-->
 <script src="assets/libs/jquery/jquery-2.2.3.min.js"></script>
 <script src="assets/libs/bootstrap/js/bootstrap.min.js"></script>
@@ -94,20 +109,8 @@
 <!--script(src="assets/libs/parallax/jquery.data-parallax.min.js")--><!-- MAIN JS-->
 <script src="assets/js/main.js"></script>
 <!-- LOADING JS FOR PAGE-->
-<script src="assets/js/pages/home-page.js"></script>
-<script src="assets/libs/background-video/video-bg.js"></script>
-<script src="assets/libs/parallax/TweenMax.min.js"></script>
-<script src="assets/libs/parallax/jquery-parallax.js"></script>
-
-
-
-<script src="assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
-<script src="assets/libs/nst-slider/js/jquery.nstSlider.min.js"></script>
-<script src="assets/libs/plus-minus-input/plus-minus-input.js"></script>
-<script src="assets/js/pages/sidebar.js"></script>
-<script src="assets/js/pages/result.js"></script>
-
-
+<script src="assets/js/pages/about-us.js"></script>
 </body>
 
+<!-- Mirrored from swlabs.co/exploore/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Jul 2016 14:56:22 GMT -->
 </html>

@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include("connexion.php");?>
-<head><title>RBS Travel</title>
-
+<head><title>RBS TRAVEL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- FONT CSS-->
@@ -25,63 +23,34 @@
 </head>
 <body>
 <div class="body-wrapper"><!-- MENU MOBILE-->
-    <?php include("header_responsive.php");?>
+    
     <!-- WRAPPER CONTENT-->
     <div class="wrapper-content"><!-- HEADER-->
-            <?php include("header.php");?>
-
+        <header><!-- NULL--></header>
         <!-- WRAPPER-->
         <div id="wrapper-content"><!-- MAIN CONTENT-->
             <div class="main-content">
-                <section class="page-banner homepage-04" >
-                    <div class="homepage-hero-module">
-                        <div class="video-container">
-                            <div class="filter">
-                                <video autoplay=1 loop controls muted="muted" class="video-embed fillWidth">
-                                    <source src="assets/images/bg-video/mp4/mountain_converted.mp4" type="video/mp4">
-                                </video>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="homepage-banner-warpper" style="padding-left:50px;padding-right:50px; ">
-                        <div class="homepage-banner-content">
-                         <!--   <div class="bg-image"><img src="assets/images/background/homepage-04-banner.jpg" alt="" class="img-responsive"></div>-->                            <div class="group-logo"><img src="assets/images/logo/logo.png" alt="" class="img-logo"></div>
+                <section class="page-404">
+                    <div class="page-clouds-1"></div>
+                    <div class="page-clouds-2"></div>
+                    <div class="page-wrapper">
+                        <div class="page-content"> 
+
+                            <h2 class="title-2"><img src="logo.png" style="height:200px;"> </h2>
+                            <h2 class="title-2">Coming soon</h2>
+
                             
-
-                               
-                                                <?php include("recherche.php");?>
-
-                                
-                                
-                      
                         </div>
                     </div>
+                    <div class="page-clouds-3"></div>
                 </section>
-                <?php include("index_voyage.php");?>
-                <?php include("index_promo_hotel.php");?>
-                             <?php include("index_tourisme.php");?>
-
-                
-                
-                
-                  <?php include("index_services.php");?> 
-                
-                
-                
-                
-                
-                
             </div>
             <!-- BUTTON BACK TO TOP-->
-            <div id="back-top"><a href="#top" class="link"><i class="fa fa-angle-double-up"></i></a></div>
         </div>
         <!-- FOOTER-->
-            <?php include("footer.php");?>
-
+        <footer><!-- NULL--></footer>
     </div>
 </div>
-
-
 <!-- LIBRARY JS-->
 <script src="assets/libs/jquery/jquery-2.2.3.min.js"></script>
 <script src="assets/libs/bootstrap/js/bootstrap.min.js"></script>
@@ -93,21 +62,6 @@
 <script src="assets/libs/please-wait/please-wait.min.js"></script>
 <!--script(src="assets/libs/parallax/jquery.data-parallax.min.js")--><!-- MAIN JS-->
 <script src="assets/js/main.js"></script>
-<!-- LOADING JS FOR PAGE-->
-<script src="assets/js/pages/home-page.js"></script>
-<script src="assets/libs/background-video/video-bg.js"></script>
-<script src="assets/libs/parallax/TweenMax.min.js"></script>
-<script src="assets/libs/parallax/jquery-parallax.js"></script>
-
-
-
-<script src="assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
-<script src="assets/libs/nst-slider/js/jquery.nstSlider.min.js"></script>
-<script src="assets/libs/plus-minus-input/plus-minus-input.js"></script>
-<script src="assets/js/pages/sidebar.js"></script>
-<script src="assets/js/pages/result.js"></script>
-
-
-</body>
+<!-- LOADING JS FOR PAGE--></body>
 
 </html>
