@@ -1,2 +1,2 @@
 # RBS-TRAVEL
-Software Management School
+Travel agency management software
